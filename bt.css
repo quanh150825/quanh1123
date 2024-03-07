@@ -1,0 +1,33 @@
+.anh {
+    width: 337px;
+    height: 700px;
+    position: relative;
+    border: 3px solid black;
+}
+
+.anh {
+    width: 337px;
+    display: inline-block;
+
+}
+
+.tech-1 {
+    position: absolute;
+    bottom: 105px;
+    background-color: aqua;
+    font-size: 36px;
+}
+
+.tech-2 {
+    bottom: 65px;
+    text-decoration: line-through;
+    text-decoration-color: black;
+    text-decoration-thickness: 2px;
+    font-size: 36px;
+}
+
+.tech-3 {
+    bottom: 0;
+    color: red;
+    font-size: 36px;
+}
